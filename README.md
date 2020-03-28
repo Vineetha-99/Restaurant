@@ -1,2 +1,4 @@
 # Restaurant
-A Python based Restaurant Management Syatem
+A Python based Restaurant Management System
+
+
